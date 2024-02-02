@@ -15,7 +15,7 @@ Skills:
 * PYT
 
 - 🔭 I’m currently working on this page for learning and teaching
-- <imgscr="https://imgs.search.brave.com/B8pd5u7NUDhCdPmmAr1cDCe67ly3W4eOsIn22IMNjaA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/Q2VEazZYZENnT1VB/QUFBai9kZXZlbG9w/LXdlYi5naWY.gif" alt="gif"/>
+<img scr="https://imgs.search.brave.com/B8pd5u7NUDhCdPmmAr1cDCe67ly3W4eOsIn22IMNjaA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/Q2VEazZYZENnT1VB/QUFBai9kZXZlbG9w/LXdlYi5naWY.gif" alt="gif"/>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/WILLIAMSWALLAS)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/AGLILRACHID/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@williamswallas0)  
