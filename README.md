@@ -1,22 +1,22 @@
 # WILLIAMSWALLAS0
 ### Hi there 👋, my name is WILLIAMSWALLAS
 #### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator]
+![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_images/1660238080568184832/Jxrc4dJV_400x400.jpg)
 
 i created these projects to learn, increase and improve my skills, and raise my educational level to the maximum possible degree 
 
 Skills: 
 * VUE JS
 * REACT
-* JS
+* JS 
 * HTML
 * CSS
 * CS50
 * PYT
 
 - 🔭 I’m currently working on this page for learning and teaching
-- <img scr="https://imgs.search.brave.com/jwjFr_trnQeE964FvWiU6deEf-LkV2AtK2gQEPxnB1I/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jb250/ZW50Lmluc3RydWN0/YWJsZXMuY29tL0ZM/MC8xSTcyL0kyQVIx/OVg0L0ZMMDFJNzJJ/MkFSMTlYNC5naWY_/YXV0bz13ZWJwJmNy/b3A9MToxJmZyYW1l/PTEmd2lkdGg9MzIw.gif" alt="gif"/>
-
+- <img scr="https://imgs.search.brave.com/m-KS3IMquadnYqS811OTi4YrVMLONhd1NvDU27pR9WM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/MVV2c2VQVXVOV2tB/QUFBTS93ZWJzaXRl/LWRlc2lnbmluZy1z/ZW8tc2VydmljZXMt/d2Vic2l0ZS5naWY.gif
+" alt="gif"/>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/WILLIAMSWALLAS)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/AGLILRACHID/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@williamswallas0)  
@@ -26,6 +26,8 @@ Skills:
 [![trophy](https://github-profile-trophy.vercel.app/?username=WILLIAMSWALLAS)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WILLIAMSWALLAS)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
