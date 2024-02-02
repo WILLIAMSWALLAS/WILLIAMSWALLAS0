@@ -1,7 +1,7 @@
 # WILLIAMSWALLAS0
 ### Hi there 👋, my name is WILLIAMSWALLAS
 #### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_images/1660238080568184832/Jxrc4dJV_400x400.jpg)
+![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_images/1660238080568184832/Jxrc4dJV_200x200.jpg)
 
 i created these projects to learn, increase and improve my skills, and raise my educational level to the maximum possible degree 
 
@@ -14,7 +14,7 @@ Skills:
 * CS50
 * PYT
 
-- 🔭 I’m currently working on this page for learning and teaching
+- 🔭 I’m currently working on this page forg
 <img scr="https://i.gifer.com/origin/d7/d72fdb011630fad8d1472c4af0292364.gif" alt="gif"/>
 
 
