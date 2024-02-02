@@ -7,8 +7,8 @@ i created these projects to learn, increase and improve my skills, and raise my 
 
 Skills: VUE JS / REACT / JS / HTML / CSS/ CS50/ PYT
 
-- 🔭 I’m currently working on this page. 
-
+- 🔭 I’m currently working on this page.
+- <img src="https://imgs.search.brave.com/8phMpVeWAl6-P-CqVuY5eyuloen4GKvxAcwFbPmh9Uo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/anFPU1Z2TGx3VTRB/QUFBTS93ZWIuZ2lm.gif" alt="gif"/>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/WILLIAMSWALLAS)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/AGLIL RACHID/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@williamswallas0)  
 
