@@ -1,11 +1,18 @@
 # WILLIAMSWALLAS0
 ### Hi there 👋, my name is WILLIAMSWALLAS
 #### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_images/1660238080568184832/Jxrc4dJV_400x400.jpg)
+![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_images/1660238080568184832/Jxrc4dJV_200x400.jpg)
 
 i created these projects to learn, increase and improve my skills, and raise my educational level to the maximum possible degree 
 
-Skills: VUE JS / REACT / JS / HTML / CSS/ CS50/ PYT
+Skills: 
+* VUE JS 
+* REACT 
+* JS 
+* HTML 
+* CSS
+* CS50
+* PYT
 
 - 🔭 I’m currently working on this page.
 - <img src="https://imgs.search.brave.com/8phMpVeWAl6-P-CqVuY5eyuloen4GKvxAcwFbPmh9Uo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/anFPU1Z2TGx3VTRB/QUFBTS93ZWIuZ2lm.gif" alt="gif"/>
