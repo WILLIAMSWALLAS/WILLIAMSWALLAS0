@@ -15,7 +15,7 @@ Skills:
 * PYT
 
 - 🔭 I’m currently working on this page for learning and teaching
-- <img scr="https://imgs.search.brave.com/m-KS3IMquadnYqS811OTi4YrVMLONhd1NvDU27pR9WM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/MVV2c2VQVXVOV2tB/QUFBTS93ZWJzaXRl/LWRlc2lnbmluZy1z/ZW8tc2VydmljZXMt/d2Vic2l0ZS5naWY.gif
+- <img scr="https://imgs.search.brave.com/8phMpVeWAl6-P-CqVuY5eyuloen4GKvxAcwFbPmh9Uo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/anFPU1Z2TGx3VTRB/QUFBTS93ZWIuZ2lm.gif
 " alt="gif"/>
 
 
