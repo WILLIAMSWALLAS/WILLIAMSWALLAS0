@@ -15,7 +15,7 @@ Skills:
 * PYT
 
 - 🔭 I’m currently working on this page forg
-<img scr="https://cdn.dribbble.com/users/1138853/screenshots/4834993/06_08_gif.gif" alt="gif"/>
+<img scr="https://payofees.com/wp-content/uploads/2023/03/cs50web.png" alt="gif"/>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/WILLIAMSWALLAS)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/AGLILRACHID/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@williamswallas0)  
