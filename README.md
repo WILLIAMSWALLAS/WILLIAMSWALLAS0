@@ -5,7 +5,14 @@
 
 i created these projects to learn, increase and improve my skills, and raise my educational level to the maximum possible degree 
 
-Skills: VUE JS / REACT / JS / HTML / CSS/ CS50/ PYT
+Skills: 
+* VUE JS
+* json
+* Js
+* HTML
+* CSS
+* CS50
+* PYT
 
 - 🔭 I’m currently working on this page. 
 
